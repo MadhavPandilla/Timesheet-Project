@@ -1,0 +1,8 @@
+12:21:25.759 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusOverdue
+12:21:41.434 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusPartiallyApproved
+12:21:57.214 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusPending 
+12:22:12.930 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusSaved
+12:22:28.685 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusSentBackforRevision
+12:22:44.474 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusSubmittedforApproval
+12:22:44.675 [main] INFO  TestCases.TC001_beCognizant - ***** closing the browser *****
+12:22:45.978 [main] INFO  TestBase.baseClass - closing the browser

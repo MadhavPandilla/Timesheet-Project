@@ -1,0 +1,65 @@
+16:21:07.888 [main] INFO  TestBase.baseClass - openOneCognizant
+16:21:21.953 [main] INFO  TestBase.baseClass - openOneCognizant
+16:26:34.019 [main] INFO  TestBase.baseClass - openOneCognizant
+16:28:16.434 [main] INFO  TestBase.baseClass - openOneCognizant
+16:35:31.916 [main] INFO  TestBase.baseClass - openOneCognizant
+16:36:16.080 [main] INFO  TestBase.baseClass - windowHandleIsTimesheet
+16:36:16.129 [main] INFO  TestBase.baseClass - headerValidation
+17:23:58.384 [main] INFO  TestBase.baseClass - Navigating to the beCognizant
+17:23:58.488 [main] INFO  TestBase.baseClass - Clicking the Profile
+17:23:59.498 [main] INFO  TestBase.baseClass - verifying the profile
+17:24:10.069 [main] INFO  TestBase.baseClass - navigating to OneCognizant
+17:24:14.259 [main] INFO  TestBase.baseClass - Clicking on oneCognizant
+17:24:24.266 [main] INFO  TestBase.baseClass - handling the OneCog window
+17:24:34.288 [main] INFO  TestBase.baseClass - Switching to OneCog window
+17:24:34.712 [main] INFO  TestBase.baseClass - navigating to oneCognizant
+17:24:35.726 [main] INFO  TestBase.baseClass - clicking the search bar and entering timesheet
+17:24:47.005 [main] INFO  TestBase.baseClass - Handling the windows of timesheet
+17:24:47.040 [main] INFO  TestBase.baseClass - switching to timesheet window
+17:24:47.054 [main] INFO  TestBase.baseClass - navigating to timesheet
+17:24:47.054 [main] INFO  TestBase.baseClass - validating the header
+17:24:48.358 [main] INFO  TestBase.baseClass - navigating to threeWeeksTimesheet
+17:24:49.686 [main] INFO  TestBase.baseClass - navigating to currentWeek page
+17:24:53.335 [main] INFO  TestBase.baseClass - navigating to dateValidationTimesheet page
+17:24:58.338 [main] INFO  TestBase.baseClass - navigating to tsStatusApproved page
+17:25:25.039 [main] INFO  TestBase.baseClass - navigating to tsStatusOverdue page
+17:25:40.525 [main] INFO  TestBase.baseClass - navigating to tsStatusPartiallyApproved page
+17:25:55.994 [main] INFO  TestBase.baseClass - navigating to tsStatusPending page
+17:26:11.450 [main] INFO  TestBase.baseClass - navigating to tsStatusSaved page
+17:26:27.194 [main] INFO  TestBase.baseClass - navigating to tsStatusSentBackforRevision page
+17:26:42.734 [main] INFO  TestBase.baseClass - navigating to tsStatusSubmittedforApproval page
+17:27:38.189 [main] INFO  TestBase.baseClass - Navigating to the beCognizant
+17:27:38.344 [main] INFO  TestBase.baseClass - Clicking the Profile
+17:27:39.352 [main] INFO  TestBase.baseClass - verifying the profile
+17:27:49.823 [main] INFO  TestBase.baseClass - navigating to OneCognizant
+17:27:59.023 [main] INFO  TestBase.baseClass - navigating to oneCognizant
+17:28:00.025 [main] INFO  TestBase.baseClass - clicking the search bar and entering timesheet
+17:28:05.207 [main] INFO  TestBase.baseClass - navigating to timesheet
+17:28:05.207 [main] INFO  TestBase.baseClass - validating the header
+17:31:35.661 [main] INFO  TestBase.baseClass - Navigating to the beCognizant
+17:31:35.778 [main] INFO  TestBase.baseClass - Clicking the Profile
+17:31:36.784 [main] INFO  TestBase.baseClass - verifying the profile
+17:31:47.439 [main] INFO  TestBase.baseClass - navigating to OneCognizant
+17:31:51.628 [main] INFO  TestBase.baseClass - Clicking on oneCognizant
+17:32:01.636 [main] INFO  TestBase.baseClass - handling the OneCog window
+17:32:11.722 [main] INFO  TestBase.baseClass - Switching to OneCog window
+17:32:12.376 [main] INFO  TestBase.baseClass - navigating to oneCognizant
+17:32:13.383 [main] INFO  TestBase.baseClass - clicking the search bar and entering timesheet
+17:32:25.188 [main] INFO  TestBase.baseClass - Handling the windows of timesheet
+17:32:25.228 [main] INFO  TestBase.baseClass - switching to timesheet window
+17:32:25.251 [main] INFO  TestBase.baseClass - navigating to timesheet
+17:32:25.251 [main] INFO  TestBase.baseClass - validating the header
+17:32:26.447 [main] INFO  TestBase.baseClass - navigating to threeWeeksTimesheet
+17:32:27.781 [main] INFO  TestBase.baseClass - navigating to currentWeek page
+17:32:31.544 [main] INFO  TestBase.baseClass - navigating to dateValidationTimesheet page
+17:32:36.551 [main] INFO  TestBase.baseClass - navigating to tsStatusApproved page
+17:33:03.206 [main] INFO  TestBase.baseClass - navigating to tsStatusOverdue page
+17:33:18.642 [main] INFO  TestBase.baseClass - navigating to tsStatusPartiallyApproved page
+17:33:34.029 [main] INFO  TestBase.baseClass - navigating to tsStatusPending page
+17:33:49.428 [main] INFO  TestBase.baseClass - navigating to tsStatusSaved page
+17:34:04.846 [main] INFO  TestBase.baseClass - navigating to tsStatusSentBackforRevision page
+17:34:20.270 [main] INFO  TestBase.baseClass - navigating to tsStatusSubmittedforApproval page
+17:34:31.786 [main] INFO  TestBase.baseClass - closing the browser
+17:35:15.514 [main] INFO  TestBase.baseClass - Navigating to the beCognizant
+17:35:20.813 [main] INFO  TestBase.baseClass - navigating to oneCognizant
+17:35:21.815 [main] INFO  TestBase.baseClass - clicking the search bar and entering timesheet
